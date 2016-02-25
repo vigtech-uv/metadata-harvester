@@ -8,3 +8,5 @@ Web service to harvest metadata related with an specific set of search terms fro
 ## Adding a new datasource
 
 ## Data model
+
+## REST API
